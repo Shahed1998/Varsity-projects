@@ -1,0 +1,14 @@
+S:\C-sharp\Varsity-Task\Varsity-Task\bin\Debug\netcoreapp3.1\Varsity-Task.exe
+S:\C-sharp\Varsity-Task\Varsity-Task\bin\Debug\netcoreapp3.1\Varsity-Task.deps.json
+S:\C-sharp\Varsity-Task\Varsity-Task\bin\Debug\netcoreapp3.1\Varsity-Task.runtimeconfig.json
+S:\C-sharp\Varsity-Task\Varsity-Task\bin\Debug\netcoreapp3.1\Varsity-Task.runtimeconfig.dev.json
+S:\C-sharp\Varsity-Task\Varsity-Task\bin\Debug\netcoreapp3.1\Varsity-Task.dll
+S:\C-sharp\Varsity-Task\Varsity-Task\bin\Debug\netcoreapp3.1\Varsity-Task.pdb
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.csproj.AssemblyReference.cache
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.GeneratedMSBuildEditorConfig.editorconfig
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.AssemblyInfoInputs.cache
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.AssemblyInfo.cs
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.csproj.CoreCompileInputs.cache
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.dll
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.pdb
+S:\C-sharp\Varsity-Task\Varsity-Task\obj\Debug\netcoreapp3.1\Varsity-Task.genruntimeconfig.cache

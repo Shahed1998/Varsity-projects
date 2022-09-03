@@ -1,0 +1,12 @@
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\bin\Debug\Foolish Game.exe.config
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\bin\Debug\Foolish Game.exe
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\bin\Debug\Foolish Game.pdb
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish Game.csproj.AssemblyReference.cache
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish_Game.Properties.Resources.resources
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish Game.csproj.GenerateResource.cache
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish Game.csproj.CoreCompileInputs.cache
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish Game.exe
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish Game.pdb
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish_Game.homePage.resources
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish_Game.foolPage.resources
+S:\Projects\Foolish Game\Foolish Game\Foolish Game\obj\Debug\Foolish_Game.cleverPage.resources

@@ -1,0 +1,14 @@
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\bin\Debug\netcoreapp3.1\Task-2.exe
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\bin\Debug\netcoreapp3.1\Task-2.deps.json
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\bin\Debug\netcoreapp3.1\Task-2.runtimeconfig.json
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\bin\Debug\netcoreapp3.1\Task-2.runtimeconfig.dev.json
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\bin\Debug\netcoreapp3.1\Task-2.dll
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\bin\Debug\netcoreapp3.1\Task-2.pdb
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.csproj.AssemblyReference.cache
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.GeneratedMSBuildEditorConfig.editorconfig
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.AssemblyInfoInputs.cache
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.AssemblyInfo.cs
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.csproj.CoreCompileInputs.cache
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.dll
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.pdb
+S:\C-sharp\Varsity-Lab-Task-2\Task-2\Task-2\obj\Debug\netcoreapp3.1\Task-2.genruntimeconfig.cache
