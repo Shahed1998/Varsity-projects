@@ -1,4 +1,4 @@
-
+import json
 class Course:
 
     def __str__(self):
@@ -17,5 +17,13 @@ class Course:
             "course_credit": int(kwargs.get("course_credit")),
             "course_prerequisites": kwargs.get("course_prerequisites")
         }
-        print(course)
+
+        with open ("storage.json", "r") as json_object:
+            all_courses = json.load(json_object)
+
+        all_courses.append(course)
+
+        with open ("storage.json", "w") as json_object:
+            json.dump(all_courses, json_object, indent=4)
+                
 
