@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "course_code": 12,
+    "course_title": "advance programming in .net",
+    "course_credit": 3,
+    "course_prerequisites": ["w", "e"],
+    "id": 1
+  },
+  {
+    "course_code": 2,
+    "course_title": "w",
+    "course_credit": 3,
+    "course_prerequisites": ["e", "r"],
+    "id": 2
+  },
+  {
+    "course_code": 123,
+    "course_title": "qwe",
+    "course_credit": 3,
+    "course_prerequisites": ["q", "w", "e", "r"],
+    "id": 3
+  },
+  {
+    "course_code": 1,
+    "course_title": "2",
+    "course_credit": 3,
+    "course_prerequisites": ["a", "b"],
+    "id": 4
+  }
+]

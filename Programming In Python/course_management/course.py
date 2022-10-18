@@ -1,29 +1,32 @@
 import json
 class Course:
+    # -------------------------- Add a course --------------------------
+    def add_course(self, **kwargs):
+        try:
+            course = {
+                "course_code": int(kwargs.get("course_code")),
+                "course_title": kwargs.get("course_title"),
+                "course_credit": int(kwargs.get("course_credit")),
+                "course_prerequisites": kwargs.get("course_prerequisites")
+            }
 
-    def __str__(self):
+            with open ("storage.json", "r") as json_object:
+                all_courses = json.load(json_object)
 
-       return """
-        Enter 1 to Add course
-        Enter 2 to View a course
-        Enter 3 to View all available courses
-        Enter 4 to Update a course
-        Enter 5 to Delete a course"""
+            course["id"] = len(all_courses) + 1
+            all_courses.append(course)
 
-    def add(self, **kwargs):
-        course = {
-            "course_code": int(kwargs.get("course_code")),
-            "course_title": kwargs.get("course_title"),
-            "course_credit": int(kwargs.get("course_credit")),
-            "course_prerequisites": kwargs.get("course_prerequisites")
-        }
+            with open ("storage.json", "w") as json_object:
+                json.dump(all_courses, json_object, indent=4)
+                print("successfully entered course")
+                    
+        except ValueError as ve:
+            print(f"Unable to enter course: {ve}")
 
+    # -------------------------- Update a course --------------------------
+    def all_courses(self):
         with open ("storage.json", "r") as json_object:
-            all_courses = json.load(json_object)
-
-        all_courses.append(course)
-
-        with open ("storage.json", "w") as json_object:
-            json.dump(all_courses, json_object, indent=4)
-                
-
+                courses = json.load(json_object)
+        # print("id\tcode\ttitle\tcredit\tprerequisites")
+        for courseDetails in courses:
+            print(f"Course id: {courseDetails['id']}\nCourse code: {courseDetails['course_code']}\nCourse title: {courseDetails['course_title']}\nCourse credit: {courseDetails['course_credit']}\nCourse prerequisites: {courseDetails['course_prerequisites'].split()}\n")

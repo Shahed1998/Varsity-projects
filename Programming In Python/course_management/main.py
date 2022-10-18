@@ -1,12 +1,17 @@
 from course import Course
 
 print("\n---------------- Course management system ----------------")
-c1 = Course()
-print(c1)
+print( """
+        Enter 1 to Add course
+        Enter 2 to View all available courses
+        Enter 3 to View a course  
+        Enter 4 to Update a course
+        Enter 5 to Delete a course""")
 print("\n----------------------------------------------------------")
 
 try:
-    choice = int(input("Enter option: ")) 
+    c1 = Course()
+    choice = int(input("Select option: ")) 
 
     # Add course
     if choice == 1:
@@ -21,13 +26,15 @@ try:
             if pre_req_loop_input == "quit": continue
             course_prerequisites.append(pre_req_loop_input)
 
-
-        c1.add(
+        c1.add_course(
             course_code = course_code,
             course_title = course_title,
             course_credit = course_credit,
             course_prerequisites = course_prerequisites
         )
+    
+    if choice == 2:
+        c1.all_courses()
         
 
 except ValueError as ve:
