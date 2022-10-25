@@ -1,0 +1,25 @@
+﻿
+<h2>Products</h2>
+<div>
+    @Html.ActionLink("Back to Index", "Index")
+</div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td><a href="/product/details/@product.Id" class="btn btn-success">Details</a>
+                <a href="/product/delete/@product.Id" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
