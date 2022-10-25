@@ -8,9 +8,16 @@
   },
   {
     "course_code": 3303,
-    "course_title": "advance java",
+    "course_title": "Advance Java",
+    "course_credit": 3,
+    "course_prerequisites": [1101],
+    "id": 27
+  },
+  {
+    "course_code": 1213,
+    "course_title": "device",
     "course_credit": 3,
     "course_prerequisites": [],
-    "id": 27
+    "id": 92
   }
 ]
