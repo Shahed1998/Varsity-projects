@@ -9,7 +9,9 @@ try:
                 Enter 2 to View all available courses
                 Enter 3 to View a course  
                 Enter 4 to Update a course
-                Enter 5 to Delete a course""")
+                Enter 5 to Delete a course
+                Enter 6 to Quit""")
+
         print("\n----------------------------------------------------------")
         
         choice = int(input("Select option: ")) 
@@ -42,7 +44,7 @@ try:
             quit = True
             continue
         else: continue
-        
+
     print("Good bye!") 
     
 except ValueError as ve:
